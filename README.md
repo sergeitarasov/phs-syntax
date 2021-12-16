@@ -1,6 +1,6 @@
 # phs-syntax package
 
-PhenoScript syntax highlight for [Atom](https://atom.io) editor.
+PhenoScript syntax highlight for [Atom](https://atom.io) editor. Based on [r-syntax](https://atom.io/packages/r-syntax).
 
 To install dowload the package and run in terminal `apm link <path_to_phs_syntax_folder>`. 
 
