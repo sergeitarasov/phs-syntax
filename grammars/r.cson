@@ -67,7 +67,7 @@
   { # mine, tagging with :
     'captures':
       '1':
-        'name': 'comment.line.number-sign.roxygen.r'  #comment.function.r constant.character.escape.r meta.method.declaration.r comment.line.number-sign.roxygen.r
+        'name': 'instance.tag.r'  #comment.function.r constant.character.escape.r meta.method.declaration.r comment.line.number-sign.roxygen.r
     'match': '(:[[:alpha:].][[:alnum:]._]*)'
   }
   {
