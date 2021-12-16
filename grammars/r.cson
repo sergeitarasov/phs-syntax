@@ -62,7 +62,7 @@
     'captures':
       '1':
         'name': 'entity.name.function.r'
-    'match': '([[:alpha:].][[:alnum:]._]*\\.) '
+    'match': ' (\\.[[:alpha:].][[:alnum:]._]*) '
   }
   { # mine, tagging with :
     'captures':
