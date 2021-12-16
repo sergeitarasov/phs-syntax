@@ -1,4 +1,4 @@
-'.source.phs':
+'.source.r':
   'editor':
     'commentStart': '# '
     'foldEndPattern': '(^\\s*\\)|^\\s*\\})'

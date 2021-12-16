@@ -218,9 +218,9 @@
     'name': 'meta.block.r'
     'patterns': [
       {
-        'include': 'source.phs'
+        'include': 'source.r'
       }
     ]
   }
 ]
-'scopeName': 'source.phs'
+'scopeName': 'source.r'
