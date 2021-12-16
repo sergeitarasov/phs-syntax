@@ -1,4 +1,4 @@
-# phs-syntax package
+# phs-syntax package fro Atom
 
 PhenoScript syntax highlight for [Atom](https://atom.io) editor. Based on [r-syntax](https://atom.io/packages/r-syntax) package.
 
