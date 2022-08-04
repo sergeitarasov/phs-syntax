@@ -8,4 +8,4 @@ From [apm repo](https://github.com/atom/apm): apm is bundled and installed autom
 
 To make the highlight working, go to Atom, open any PhenoScrit file, hold down ´cntr + shift+L´ or click `Edit` -> `Select Grammar` and select 'PhenoScript'.
 
-![A screenshot of your package](https://github.com/sergeitarasov/PhenoScript/blob/master/phs_highlight.png)
+![A screenshot of your package](https://github.com/sergeitarasov/PhenoScript:OLD/blob/master/phs_highlight.png)
